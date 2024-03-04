@@ -1,1 +1,1 @@
-Modulo di Google Looker: esercitazioni pratiche durante il corso DigiChamps ![image](https://github.com/BRANCAFEDERICA/Google-Looker/assets/152906948/3d6134bf-b602-4d3f-a3b3-10f4efd4805a)
+Modulo di Google Looker: esercitazioni pratiche durante il corso DigiChamps ![image](https://github.com/BRANCAFEDERICA/Google-Looker/assets/152906948/fabcffb4-31d6-4a1d-b88e-d6e0ed062f0d)
