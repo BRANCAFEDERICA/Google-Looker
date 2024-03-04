@@ -1,0 +1,43 @@
+Analisi Data Awareness | 4 marzo 2024
+
+Link al report: https://lookerstudio.google.com/reporting/1cc2a86b-80a3-4dfd-9a5a-fcdfaefad875
+
+Link ai dati: https://docs.google.com/spreadsheets/d/1YKVy0pRcvkdEDoMMfBUJhYbi46dnkNJqY4-IceL8B58/edit?usp=sharing 
+
+Che cos'è la "Data Awareness"?
+La risposta più semplice sarebbe una raccolta giornaliera di dati personali.  
+
+Cerco di fare un po' più di chiarezza: il primo giorno di un corso di data analysis il docente ci ha proposto un'attività molto interessante, ovvero raccogliere dati, partire col piede giusto e iniziare già a comprendere cosa significa essere dei piccoli scienziati.
+
+Mi sono balenati diversi argomenti che pensavo valesse la pena di analizzare: quanti messaggi invio al giorno, il tempo che trascorro sui social, quante ricerche Google faccio. 
+​
+Poi mi son detta: ma qual è l'attività che di sicuro faccio ogni giorno, "no matter what"? 
+La risposta è stata immediata:guardare serie tv.
+
+Ho deciso così di registrare, negli ultimi 3 mesi, il numero di puntate che vedo al giorno.
+
+Andiamo adesso a dare un'occhiata ai dati più da vicino, cercando di rispondere ad alcune domande che mi sono posta:
+1) Quale serie TV ho visto di più?
+2) In media quante puntate ho visto?
+3) Ci sono stati dei giorni in cui non ho visto neanche una puntata?
+4) I giorni della settimana sono indicativi del numero di puntate viste (es, nel weekend guardo più episodi?)
+
+
+Nell'intervallo di tempo considerato, ovvero 90 giorni, ho visto in totale 360 episodi di 5 diverse serie TV (New Girl, The Bear, Hazbin Hotel, Una Mamma Per Amica, Scrubs). In media ho scoperto di guardare 4 episodi al giorno, ma la serie che ha vinto su tutte è stata New Girl.
+
+Mi sono resa conto che sarebbe stato utile aggiungere l'immagine di una locandina alle diverse serie tv e, utilizzando una funzione su Google Fogli, ho aggiornato il mio dataset.
+
+Volendo approfondire la sezione temporale, ho guardato i dati prima giornalmente, poi per settimana e poi per mese.
+
+Il mese in cui ho guardato più serie è il mese di Gennaio, con 126 episodi visti.
+Giornalmente ho visto un numero max di 7 episodi ed un numero minimo di 1, quindi non c'è mai stato un giorno in cui non ho visto neanche un episodio.
+Dal confronto delle serie viste nell'ultima settimana emerge che New Girl è stata quella più vista con 7 episodi il 29 febbraio.
+Anche in questa classifica New Gilrl vince come premio serie più vista nell'ultima settimana.
+
+Nella dashboard finale ho voluto racchiudere tutti questi dati in maniera tale da essere immediatamente visibili. Per prima cosa ho inserito i filtri temporali, sia per mese che per giorno della settimana. Ho pensato che sarebbe stato interessante fare un'analisi per giorno della settimana per capire se nel weekend c'è una tendenza a guardare più episodi.
+
+In cocnlusione, mi sarebbe piaciuto aggiungere nuove analisi e trovare altri dataset correlati ma a causa di problemi di connessione e più specifici di funzionamento del sito di Google Looker, mi sono limitata ad approfondire le analisi sul mio dataset e a cercare una coerenza grafica.
+
+Federica Branca
+
+
