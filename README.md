@@ -1,0 +1,1 @@
+Modulo di Google Looker: esercitazioni pratiche durante il corso DigiChamps https://yt3.googleusercontent.com/LOZkE0MRiP1wQ6cLJILM6-0NmEcmfXumwEIWBNXOe8TQyiwADl20MW0u6oEa2HFr80LH736N=s900-c-k-c0x00ffffff-no-rj
